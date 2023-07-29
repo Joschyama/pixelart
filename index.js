@@ -52,6 +52,35 @@ function but9acti() {
     let button = document.getElementsByClassName("but9")[0];
     butacti(button);
 }
+function but10acti() {
+    let button = document.getElementsByClassName("but10")[0];
+    butacti(button);
+}
+function but11acti() {
+    let button = document.getElementsByClassName("but11")[0];
+    butacti(button);
+}
+function but12acti() {
+    let button = document.getElementsByClassName("but12")[0];
+    butacti(button);
+}
+function but13acti() {
+    let button = document.getElementsByClassName("but13")[0];
+    butacti(button);
+}
+function but14acti() {
+    let button = document.getElementsByClassName("but14")[0];
+    butacti(button);
+}
+function but15acti() {
+    let button = document.getElementsByClassName("but15")[0];
+    butacti(button);
+}
+function but16acti() {
+    let button = document.getElementsByClassName("but16")[0];
+    butacti(button);
+}
+
 
 
 function butacti(button) {
