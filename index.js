@@ -208,6 +208,71 @@ function but48acti() {
     let button = document.getElementsByClassName('but48')[0];
     butacti(button);
 }
+function but49acti() {
+    let button = document.getElementsByClassName('but49')[0];
+    butacti(button);
+}
+function but50acti() {
+    let button = document.getElementsByClassName('but50')[0];
+    butacti(button);
+}
+function but51acti() {
+    let button = document.getElementsByClassName('but51')[0];
+    butacti(button);
+}
+function but52acti() {
+    let button = document.getElementsByClassName('but52')[0];
+    butacti(button);
+}
+function but53acti() {
+    let button = document.getElementsByClassName('but53')[0];
+    butacti(button);
+}
+function but54acti() {
+    let button = document.getElementsByClassName('but54')[0];
+    butacti(button);
+}
+function but55acti() {
+    let button = document.getElementsByClassName('but55')[0];
+    butacti(button);
+}
+function but56acti() {
+    let button = document.getElementsByClassName('but56')[0];
+    butacti(button);
+}
+function but57acti() {
+    let button = document.getElementsByClassName('but57')[0];
+    butacti(button);
+}
+function but58acti() {
+    let button = document.getElementsByClassName('but58')[0];
+    butacti(button);
+}
+function but59acti() {
+    let button = document.getElementsByClassName('but59')[0];
+    butacti(button);
+}
+function but60acti() {
+    let button = document.getElementsByClassName('but60')[0];
+    butacti(button);
+}
+function but61acti() {
+    let button = document.getElementsByClassName('but61')[0];
+    butacti(button);
+}
+function but62acti() {
+    let button = document.getElementsByClassName('but62')[0];
+    butacti(button);
+}
+function but63acti() {
+    let button = document.getElementsByClassName('but63')[0];
+    butacti(button);
+}
+function but64acti() {
+    let button = document.getElementsByClassName('but64')[0];
+    butacti(button);
+}
+
 function butacti(button) {
     color_check(button);
 }
