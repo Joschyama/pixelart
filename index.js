@@ -2,18 +2,7 @@ let color = "black";
 function colera(){
     color = ""
 }
-function colblk(){
-    color = "black"
-}
-function colred(){
-    color = "red"
-}
-function colblu(){
-    color = "blue"
-}
-function colgrn(){
-    color = "green"
-}
+let colorpicker = document.getElementById("colorall").value
 
 
 function but1acti() {
@@ -4119,19 +4108,11 @@ function butacti(button) {
 
 
 function color_check(button) {
-    if (color == "black") {
-        button.style.backgroundColor = "black";
-    }
-    else if (color == ""){
+    if (color == ""){
         button.style.backgroundColor = "";
-    }
-    else if (color == "red"){
-        button.style.backgroundColor = "red";
-    }
-    else if (color == "blue"){
-        button.style.backgroundColor = "blue";
-    }
-    else if (color == "green"){
-        button.style.backgroundColor = "green"
+}
+    else {
+        color = colorall.value
+        button.style.backgroundColor = color;
     }
 }
